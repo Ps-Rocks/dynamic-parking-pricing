@@ -2,10 +2,6 @@
 
 This project implements **advanced dynamic pricing strategies** for smart parking using real-world parking data. Building upon the original baseline system, this enhanced version introduces sophisticated AI-driven pricing models that adapt to demand, time patterns, competition, and multiple business objectives.
 
-## 👨‍💻 Author
-- **Original**: Atharva Bhardwaj (abhardwaj0624@gmail.com)
-- **Enhanced Version**: Advanced AI Implementation
-
 ## 🆕 Key Enhancements Over Original
 
 ### 1. **Time-Aware Intelligent Pricing**
